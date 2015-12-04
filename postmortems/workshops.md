@@ -2,7 +2,7 @@
 
 ## Previous workshops
 
-[2015 Nov 24's workshop](workshops/2015-11-24.md)
+- [2015 Nov 24's workshop](workshops/2015-11-24.md)
 
 ## Template
 
