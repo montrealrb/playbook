@@ -35,6 +35,15 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - [ ] Have a successful meetup.
 ```
 
+## The day after the event
+
+```
+- [ ] Write a follow up on the website if needed
+- [ ] Email the sponsors to say thank you
+- [ ] Email the venue to say thank you
+- [ ] Email the speakers to say thank you
+```
+
 ## Things important to have on the website's announcement
 
 I know most of the items on the checklist are mandatory in our new Rails app. But I had to have that list with wordpress
